@@ -3,12 +3,6 @@ class AppString {
   static const screenName = 'screenName';
   static const loginScreen = 'LoginScreen';
 
-  // static const e = '';
-  // static const e = '';
-  // static const e = '';
-  // static const e = '';
-  // static const e = '';
-
   // App Messages
   static const validEmailMobile = 'Please enter valid email or mobile';
   static const validMobile = 'Please enter valid mobile number';
@@ -16,11 +10,19 @@ class AppString {
   static const somethingWrong = 'Something went wrong, Please try again later';
   static const validOTP = 'Please enter valid OTP';
 
-  // static const e = '';
-  // static const e = '';
-
   static const appName = 'Prayaas Loans';
   static const emptyText = '';
+
+  // Welcome screen
+  static const namsteGujarati = 'નમસ્તે.';
+  static const chooseLanguage = "Choose your Display Language";
+
+  static const english = 'English';
+  static const hindi = 'हिन्दी Hindi';
+  static const gujarati = 'ગુજરાતી Gujarati';
+  static const marathi = 'मराठी Marathi';
+  static const tamil = 'தமிழ் Tamil';
+  static const kannada = 'ಕನ್ನಡ Kannada  ';
 
   // Login screen
   static const usernameHint = 'Email/phone';

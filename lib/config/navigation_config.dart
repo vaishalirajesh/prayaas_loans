@@ -18,7 +18,7 @@ import 'package:prayaas_loans/view/dashboard/setting/setting_view.dart';
 abstract class NavigationConfig {
   NavigationConfig._();
 
-  static NavigationModel get initialRoute => splash;
+  static NavigationModel get initialRoute => welcomeScreen;
 
   static final NavigationModel login = NavigationModel(
     route: NavigationConstant.loginScreenRoute,
